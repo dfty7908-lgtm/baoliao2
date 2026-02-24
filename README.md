@@ -11,29 +11,9 @@
 ---
 
 ## 🌐 演示系统与全端体验地址
-*(以下为目前线上可直接访问的全端体验地址及测试账号，您可以全面体验各端的不同功能界面)*
+为了保持 README 文件的整洁性，所有客户端（用户端、店主端、PC管理端及系统大后台）的**线上实时演示地址**及**测试账号密码**，已统一整理在专门的说明文档中。
 
-### 1. 【用户端】
-体验地址：[https://uap.neenlink.com](https://uap.neenlink.com)
-APP下载：[https://uns.neenlink.com/app/index.html](https://uns.neenlink.com/app/index.html)
-> **测试账号：** `15666666666`
-> **密码：** `123456`
-
-### 2. 【店主端手机后台】
-体验H5地址：[https://uam.neenlink.com](https://uam.neenlink.com)
-APP下载：[https://uns.neenlink.com/admin/index.html](https://uns.neenlink.com/admin/index.html)
-> **测试账号：** `15666666666`
-> **密码：** `123456`
-
-### 3. 【店主端PC后台】
-体验地址：[https://udm.neenlink.com](https://udm.neenlink.com)
-> **测试账号：** `15666666666`
-> **密码：** `123456`
-
-### 4. 【系统大后台】
-体验地址：[https://adm.neenlink.com](https://adm.neenlink.com)
-> **测试账号：** `admin`
-> **密码：** `123456`
+👉 **[点击此处查看全端演示地址与账号](frontend/演示地址.md)**
 
 ---
 

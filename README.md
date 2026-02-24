@@ -10,22 +10,30 @@
 
 ---
 
-## 📸 运行截图
-*(以下为部分页面的实时运行界面截图，包含用户端、店主手机端、店主PC端及总后台)*
+## 🌐 演示系统与全端体验地址
+*(以下为目前线上可直接访问的全端体验地址及测试账号，您可以全面体验各端的不同功能界面)*
 
-【用户端】
-![用户端展示1](user_app_screenshot.png)
+### 1. 【用户端】
+体验地址：[https://uap.neenlink.com](https://uap.neenlink.com)
+APP下载：[https://uns.neenlink.com/app/index.html](https://uns.neenlink.com/app/index.html)
+> **测试账号：** `15666666666`
+> **密码：** `123456`
 
-【店主手机后台】
-![店主H5展示1](shop_app_screenshot.png)
+### 2. 【店主端手机后台】
+体验H5地址：[https://uam.neenlink.com](https://uam.neenlink.com)
+APP下载：[https://uns.neenlink.com/admin/index.html](https://uns.neenlink.com/admin/index.html)
+> **测试账号：** `15666666666`
+> **密码：** `123456`
 
-【店主PC管理端】
-![店主PC展示1](shop_pc_screenshot.png)
+### 3. 【店主端PC后台】
+体验地址：[https://udm.neenlink.com](https://udm.neenlink.com)
+> **测试账号：** `15666666666`
+> **密码：** `123456`
 
-【系统总后台管理面】
-![总管理端展示1](super_admin_screenshot.png)
-
-*(更多功能模块由于涉及复杂逻辑交互与资金流模拟，暂未全数放开截图展示)*
+### 4. 【系统大后台】
+体验地址：[https://adm.neenlink.com](https://adm.neenlink.com)
+> **测试账号：** `admin`
+> **密码：** `123456`
 
 ---
 
